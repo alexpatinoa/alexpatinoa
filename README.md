@@ -66,19 +66,6 @@ philosophy:  "Architecture is a conversation between complexity and clarity."
 
 ---
 
-## `> stats --github`
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alexpatinoa&show_icons=true&theme=transparent&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9&border_color=00E5FF20&hide_border=false&bg_color=0d0d0d" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexpatinoa&layout=compact&theme=transparent&title_color=00E5FF&text_color=c9d1d9&border_color=00E5FF20&bg_color=0d0d0d" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alexpatinoa&theme=dark&background=0d0d0d&ring=00E5FF&fire=FF6B35&currStreakLabel=00E5FF&border=00E5FF20&sideLabels=c9d1d9&dates=555" />
-</div>
-
----
-
 ## `> connect --channels`
 
 <div align="center">
@@ -93,11 +80,8 @@ philosophy:  "Architecture is a conversation between complexity and clarity."
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Always%20Architecting-FF6B35?style=for-the-badge&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/Always%20Developing-00E5FF?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Always%20architecting-Always%20iterating-00E5FF?style=for-the-badge&labelColor=0d0d0d" />
 
-<br/><br/>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=alexpatinoa.alexpatinoa&color=00E5FF)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=alexpatinoa.alexpatinoa&color=00E5FF&style=for-the-badge)
 
 </div>
