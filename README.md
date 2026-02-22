@@ -2,11 +2,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Turning+complexity+into+clarity.;Designing+%26+developing+systems+that+scale." alt="Typing SVG" />
 
-```
-╔══════════════════════════════════════════════════════════╗
-║   @alexpatinoa  ·  SOFTWARE ARCHITECT  ·  Medellín, CO  ║
-╚══════════════════════════════════════════════════════════╝
-```
+<img src="https://img.shields.io/badge/@alexpatinoa-SOFTWARE%20ARCHITECT-00E5FF?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Medellín-Colombia-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=FF6B35&labelColor=0d0d0d" />
 
 </div>
 
