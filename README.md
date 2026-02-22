@@ -80,8 +80,14 @@ philosophy:  "Architecture is a conversation between complexity and clarity."
 
 <div align="center">
 
+<br/>
+
 <img src="https://img.shields.io/badge/Always%20architecting-Always%20iterating-00E5FF?style=for-the-badge&labelColor=0d0d0d" />
-&nbsp;
+
+<br/><br/>
+
 <img src="https://visitor-badge.laobi.icu/badge?page_id=alexpatinoa.alexpatinoa&left_color=0d0d0d&right_color=00E5FF&left_text=visitors" />
+
+<br/>
 
 </div>
