@@ -34,16 +34,15 @@ philosophy:  "Architecture is a conversation between complexity and clarity."
 
 <br/>
 
-<img src="https://img.shields.io/badge/TypeScript-Full%20Stack-A855F7?style=for-the-badge&logo=typescript&logoColor=A855F7&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/TypeScript-Backend%20%26%20APIs-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0d0d0d" />
 <img src="https://img.shields.io/badge/Node.js-Backend%20%26%20APIs-22C55E?style=for-the-badge&logo=nodedotjs&logoColor=22C55E&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/JavaScript-Web-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0d0d0d" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Docker-Containers-00E5FF?style=for-the-badge&logo=docker&logoColor=00E5FF&labelColor=0d0d0d" />
 <img src="https://img.shields.io/badge/Kubernetes-Orchestration-00D9FF?style=for-the-badge&logo=kubernetes&logoColor=00D9FF&labelColor=0d0d0d" />
 <img src="https://img.shields.io/badge/Microservices-Architecture-FF6B35?style=for-the-badge&logoColor=FF6B35&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/Event--Driven-Async-A855F7?style=for-the-badge&logoColor=A855F7&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Event--Driven-Async-22C55E?style=for-the-badge&logoColor=22C55E&labelColor=0d0d0d" />
 
 </div>
 
@@ -86,7 +85,7 @@ philosophy:  "Architecture is a conversation between complexity and clarity."
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexander_Patiño-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0d0d0d&color=00E5FF20)](https://www.linkedin.com/in/alexander-patiño-alvarez/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-@alexpatinoa-0d0d0d?style=for-the-badge&logo=github&logoColor=A855F7&labelColor=0d0d0d&color=A855F7)](https://github.com/alexpatinoa)
+[![GitHub](https://img.shields.io/badge/GitHub-@alexpatinoa-0d0d0d?style=for-the-badge&logo=github&logoColor=3178C6&labelColor=0d0d0d&color=3178C6)](https://github.com/alexpatinoa)
 
 </div>
 
@@ -94,10 +93,8 @@ philosophy:  "Architecture is a conversation between complexity and clarity."
 
 <div align="center">
 
-```
-// Always architecting. Always iterating.
-```
+<img src="https://img.shields.io/badge/Always%20architecting-Always%20iterating-00E5FF?style=for-the-badge&labelColor=0d0d0d" />
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=alexpatinoa.alexpatinoa&color=00E5FF)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=alexpatinoa.alexpatinoa&color=00E5FF&style=for-the-badge)
 
 </div>
